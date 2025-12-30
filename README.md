@@ -4,5 +4,3 @@ My personal website: <a href="https://jialuohu.com">jialuohu.com</a>. Feel free 
 </br></br>
 
 <p><img align="left" src="https://readme-stats.jialuohu.com/api/top-langs?username=jialuohu&show_icons=true&locale=en&layout=compact" alt="jialuohu" /></p>
-
-<p><img align="center" src="https://readme-stats.jialuohu.com/?user=jialuohu&" alt="jialuohu" /></p>
